@@ -1,0 +1,31 @@
+.example-1 {
+    border: 1px solid black;
+    border-radius: 2%;
+    margin: 50px;
+    padding: 25px;
+    height: 250px;
+    width: 250px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    background-color: #00b3ff
+  }
+.hello {
+    /*. for id */
+text-align: center;
+color: aliceblue;
+font-size: 2em;
+}
+
+#earth {
+    /* # for class */
+    margin-top: 20px;
+text-align: center;
+color: aliceblue;
+font-size: 2em;
+background-color: blanchedalmond;
+border: blueviolet;
+border-radius: 4%;
+padding: 10px;
+}
+body {
+    background-color: #19ff00;
+}
